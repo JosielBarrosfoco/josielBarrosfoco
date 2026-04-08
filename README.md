@@ -37,7 +37,7 @@
   <a href="https://josielbarros.dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
   </a>
-<img src="https://raw.githubusercontent.com/josielBarrosfoco/josielBarrosfoco/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 </div>
 
 ###
