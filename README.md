@@ -41,9 +41,9 @@ Atuei em **supervisão de operações e gestão de processos**, com liderança d
 
 ## Formação e aprendizado
 
-- Engenharia de Software — em andamento
-- Técnico em Desenvolvimento de Sistemas — concluído
-- Formação em Programação em Python — SENAC, **156 horas (2025)**
+- Engenharia de Software  em andamento
+- Técnico em Desenvolvimento de Sistemas  concluído
+- Formação em Programação em Python SENAC, **156 horas (2025)**
 - Power BI, bancos de dados, análise de processos e metodologias ágeis
 
 **Estou aberto a conversar sobre oportunidades em Análise de Sistemas, Desenvolvimento Backend, Integrações, Automação e Dados.**
